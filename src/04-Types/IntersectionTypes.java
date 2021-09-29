@@ -4,7 +4,7 @@ public class IntersectionTypes {
     }
 
     // ?? Capture conversion ???
-    void dummy(SuperC & I1 t ) {}
+    //void dummy(SuperC & I1 t ) {}
 }
 
 // TODO: revisit after learning about capture conversion
